@@ -1,0 +1,4 @@
+D:\desktop\HERE\Project1\Debug\Project1.exe
+D:\desktop\HERE\Project1\Debug\Project1.pdb
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Debug\Project1.exe
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Debug\Project1.pdb

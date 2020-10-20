@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Source.cpp(34,17): warning C4129: 'F': unrecognized character escape sequence
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Source.cpp(95,15): warning C4129: 'F': unrecognized character escape sequence
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Source.cpp(133,29): warning C4129: 'F': unrecognized character escape sequence
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Source.cpp(169,29): warning C4129: 'F': unrecognized character escape sequence
+E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Source.cpp(206,29): warning C4129: 'F': unrecognized character escape sequence
+  Project1.vcxproj -> E:\Root\Personal\Project\Organizator_creation\Root_folder_creation\Debug\Project1.exe
