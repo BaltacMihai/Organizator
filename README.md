@@ -5,6 +5,7 @@ My project is to solve the problem of a full desktop and not finding files.
 
 The program creates a hierarchical structure of folders that can be placed in any partition, including external memory (CD, Stick).
 ![The Graphic Reprezentation of the root](https://github.com/BaltacMihai/Organizator/blob/main/GraficRoot.png?raw=true)
+
 But now another problem arises:
 
 How will I be able to navigate from one place to another?
