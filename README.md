@@ -11,3 +11,6 @@ But now another problem arises:
 How will I be able to navigate from one place to another?
 
 The program generates a web page both in the root folder and on the desktop. This page was designed to help the user navigate folders more easily. Because there are people who move their desktop to another partition, the program asked you this detail.
+
+
+![The website that is created](https://github.com/BaltacMihai/Organizator/blob/main/TheWebsite.png?raw=true)
